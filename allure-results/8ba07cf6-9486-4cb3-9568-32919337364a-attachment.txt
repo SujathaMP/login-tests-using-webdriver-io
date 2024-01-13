@@ -1,0 +1,4 @@
+{
+  "script": "return ((done) => {\n          axe.run((err, result) => {\n            if (err) throw err;\n            done(result);\n          });\n        }).apply(null, arguments)",
+  "args": []
+}

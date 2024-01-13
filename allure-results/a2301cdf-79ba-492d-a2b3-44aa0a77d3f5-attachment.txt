@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[class*=\"wp-block-button__link\"]"
+}

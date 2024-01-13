@@ -1,0 +1,4 @@
+{
+  "script": "return window.console ? window.console.logs() : []",
+  "args": []
+}
