@@ -24,11 +24,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
    git clone https://github.com/your-username/your-webdriverio-project.git
+   https://github.com/SujathaMP/WebdriverIO.git
    
-2.  Navigate to the project directory:
+3.  Navigate to the project directory:
     cd your-webdriverio-project
 
-3.  Install dependencies
+4.  Install dependencies
     npm install
     
 5.  Running the Tests
