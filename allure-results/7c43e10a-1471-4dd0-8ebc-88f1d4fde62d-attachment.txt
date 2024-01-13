@@ -1,4 +1,0 @@
-{
-  "handle": "D5BAC41C1C7944930E675CED5A9C876D",
-  "type": "tab"
-}

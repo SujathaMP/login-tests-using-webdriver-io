@@ -1,4 +1,0 @@
-{
-  "script": "\n      var callback = arguments[arguments.length - 1];\n      var context = {\"exclude\":[]};\n      var frameContexts = window.axe.utils.getFrameContexts(context);\n      callback(frameContexts)\n    ",
-  "args": []
-}
