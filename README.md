@@ -40,3 +40,29 @@ This repository contains test cases for performing simple login tests using the 
 
     WebDriverIO - WebDriver bindings for Node.js.
     Mocha - Test framework.
+    
+# Project Summary Report
+
+### Approach:
+Technology Stack:
+Test Automation Framework: WebDriverIO with Mocha.
+Test Runner: Built-in WDIO test runner.
+Page Object Pattern: Utilized for better code organization and maintenance.
+
+Test Scenario:
+Focused on the login functionality, covering positive and negative scenarios.
+
+Test Data:
+Testdata toover various scenarios (valid credentials, invalid credentials etc.).
+
+Parallel Execution:
+Implemented parallel execution to save time and resources.
+Leverage WebDriverIO's capability for parallel test execution.
+
+### Challenges
+Implemented waits with timeouts in order to avoid flaky test
+Implementing accessibility test
+
+### Improvements
+Implementation of allure reports
+Implementation of cross browser testing
