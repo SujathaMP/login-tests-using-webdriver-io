@@ -4,7 +4,7 @@ This repository contains test cases for performing simple login tests using the 
 
 ### Prerequisites
 
-- Node.js (of version) installed on your machine
+- Node.js (v21.5.0) installed on your machine
 
 ### How to run the test
 
